@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/CookieClick.iml" filepath="$PROJECT_DIR$/CookieClick.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/rain_alert.iml" filepath="$PROJECT_DIR$/rain_alert.iml" />
+>>>>>>> 610c2328c59531e752d9610cecec22437f25af7d
     </modules>
   </component>
 </project>
